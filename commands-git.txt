@@ -2,3 +2,7 @@ Clone repository : git clone url
 Push commands: git add fichier
 git commit -m "Description"
 git push
+
+Create branch : git branch branch-name
+Switch to branch : git switch branch-name
+Create and switch to branch : git switch -c branch-name
