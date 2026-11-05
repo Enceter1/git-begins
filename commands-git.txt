@@ -1,0 +1,4 @@
+Clone repository : git clone url
+Push commands: git add fichier
+git commit -m "Description"
+git push
